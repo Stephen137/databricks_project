@@ -149,7 +149,7 @@ This was fully automated making use of the trigger feature and took just two and
 
 ### Presentation Pipeline
 
-![img/presentation_pipeline.JPG](65b6e026-9267-4f86-823f-7f81543e8d4b.JPG)
+![presentation_pipeline.JPG](img/65b6e026-9267-4f86-823f-7f81543e8d4b.JPG)
 
 ### Creating a Trigger
 
